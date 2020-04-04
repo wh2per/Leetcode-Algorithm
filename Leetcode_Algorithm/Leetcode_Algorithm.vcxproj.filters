@@ -39,5 +39,8 @@
     <ClCompile Include="7. Reverse Integer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9. Palindrome Number.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
