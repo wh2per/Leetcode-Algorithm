@@ -10,4 +10,4 @@
 | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [cpp](Leetcode_Algorithm/6.%20ZigZag%20Conversion.cpp)| 
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [cpp](Leetcode_Algorithm/7.%20Reverse%20Integer.cpp)| 
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [cpp](Leetcode_Algorithm/8.%20String%20to%20Integer%20(atoi).cpp)| 
-
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [cpp](Leetcode_Algorithm/9.%20Palindrome%20Number.cpp)| 
