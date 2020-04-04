@@ -2,7 +2,7 @@
 
 | 문제 | 코드 |
 | ------------- |:-------------:|
-| [1.Two Sum](https://leetcode.com/problems/two-sum/) | [cpp](Leetcode_Algorithm/1.%20Two%20Sum.cpp)| 
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [cpp](Leetcode_Algorithm/1.%20Two%20Sum.cpp)| 
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [cpp](Leetcode_Algorithm/12.%20Add%20Two%20Numbers.cpp)| 
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [cpp](Leetcode_Algorithm/3.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)| 
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [cpp](Leetcode_Algorithm/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)| 
